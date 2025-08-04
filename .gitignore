@@ -1,5 +1,6 @@
-.json
+*.json
 .env
-.utils.py
-.xlsx
-.env
+utils.py
+trumpX.py
+__pycache__/
+지난 코드/
