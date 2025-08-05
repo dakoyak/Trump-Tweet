@@ -2,5 +2,7 @@
 .env
 utils.py
 trumpX.py
+app.py
+n.py
 __pycache__/
 지난 코드/
