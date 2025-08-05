@@ -17,7 +17,7 @@ Trump Tweets
    - 실제 트럼프 공식 트위터 프로필이 재현된 인터페이스가 표시됩니다.
    - 트위터와 동일한 다크 테마와 레이아웃을 제공합니다.
   
-![트위터UI](https://github.com/dakoyak/Trump-Tweet/blob/d6b4b1248cb81b46284bf0e6ce77d23091b69376/image.png))
+![트위터UI](https://github.com/dakoyak/Trump-Tweet/blob/d6b4b1248cb81b46284bf0e6ce77d23091b69376/image.png)
 
 2. **고민 입력**: 하단 고정 입력창에 현재의 고민이나 질문을 입력합니다.
    예시)
